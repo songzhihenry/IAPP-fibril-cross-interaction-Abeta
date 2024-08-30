@@ -1,6 +1,6 @@
-# Research Data Repository: [Islet Amyloid Polypeptide Fibril Catalyzes Amyloid-β Aggregation by Promoting Fibril Nucleation Rather than Direct Axial Growth]
+# Research Data Repository: Islet amyloid polypeptide fibril catalyzes amyloid-β aggregation by promoting fibril nucleation rather than direct axial growth
 
-Welcome to the GitHub repository for the research data supporting the figures presented in our paper titled "[Islet Amyloid Polypeptide Fibril Catalyzes Amyloid-β Aggregation by Promoting Fibril Nucleation Rather than Direct Axial Growth](a link to be added)". This repository contains the datasets, Jupyter notebooks, and Python scripts used for data analysis and plot production in our research.
+Welcome to the GitHub repository for the research data supporting the figures presented in our paper titled ***[Islet amyloid polypeptide fibril catalyzes amyloid-β aggregation by promoting fibril nucleation rather than direct axial growth](https://doi.org/10.1016/j.ijbiomac.2024.135137)***. This repository contains the datasets, Jupyter notebooks, and Python scripts used for data analysis and plot production in our research.
 
 
 ## Repository Contents
@@ -38,4 +38,4 @@ pip install numpy matplotlib
 
 If you find this research data useful for your work, please cite our paper:
 
-(to be added)
+Z. Song, H. Tang, A. Gatch, Y. Sun and Feng Ding, “Islet Amyloid Polypeptide Fibril Catalyzes Amyloid-β Aggregation by Promoting Fibril Nucleation Rather than Direct Axial Growth”, International Journal of Biological Macromolecules (Elsevier), 279(1)
